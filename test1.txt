@@ -5,3 +5,4 @@ Completed BSC in 2010
 Completed MSc 2023
 
 Join SASSCO in 2012
+logo align center fixed
